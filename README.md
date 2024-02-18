@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/pauravhp/pauravhp/blob/main/header.png?raw=true" alt"profile-banner"/> </p>
+<p align="center"> <img src="https://github.com/pauravhp/pauravhp/blob/main/profile.png?raw=true" alt"profile-banner"/> </p>
 <!-- <h1 align="center">Hi 👋, I'm Paurav H Param</h1> -->
 <h3 align="center">A passionate full stack developer looking to explore fun & coding!</h3>
 
