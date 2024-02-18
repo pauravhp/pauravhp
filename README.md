@@ -1,5 +1,6 @@
-<p align="center"> <img src="https://github.com/pauravhp/pauravhp/blob/main/profile.png?raw=true" alt"profile-banner"/> </p>
-<!-- <h1 align="center">Hi 👋, I'm Paurav H Param</h1> -->
+<!-- Credit for banner goes to https://github.com/kyechan99/capsule-render-->
+<img align="center" src="https://capsule-render.vercel.app/api?type=WAVING&height=300&section=header&text=I'm%20Paurav,&desc=Nice%20to%20meet%20you!&fontAlign=25&fontAlignY=40&color=gradient&descAlign=35&customColorList=21,23,26,12,4,2" />
+
 <h3 align="center">A passionate full stack developer looking to explore fun & coding!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pauravhp&label=Profile%20views&color=0e75b6&style=flat" alt="pauravhp" /> </p>
