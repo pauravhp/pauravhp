@@ -1,5 +1,5 @@
 <!-- Credit for banner goes to https://github.com/kyechan99/capsule-render-->
-<img align="center" src="https://capsule-render.vercel.app/api?type=WAVING&height=300&section=header&text=I'm%20Paurav,&desc=Nice%20to%20meet%20you!&fontAlign=25&fontAlignY=40&color=gradient&descAlign=35&customColorList=21,23,26,12,4,2" />
+<img align="center" src="https://capsule-render.vercel.app/api?type=WAVING&height=300&section=header&text=Hey!%20I'm%20Paurav&desc=Welcome!&fontAlign=33&fontAlignY=40&color=gradient&descAlign=9&customColorList=21,23,26,12,4,2" />
 
 <h3 align="center">A passionate full stack developer looking to explore fun & coding!</h3>
 
