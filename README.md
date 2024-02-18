@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Paurav H Param</h1>
+<p align="center"> <img src="https://github.com/pauravhp/pauravhp/blob/main/header.png?raw=true" alt"profile-banner"/> </p>
+<!-- <h1 align="center">Hi 👋, I'm Paurav H Param</h1> -->
 <h3 align="center">A passionate full stack developer looking to explore fun & coding!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pauravhp&label=Profile%20views&color=0e75b6&style=flat" alt="pauravhp" /> </p>
